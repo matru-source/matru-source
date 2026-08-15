@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:7b2ff7&height=220&section=header&text=MATRU%20PRASAD%20PANDA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-# 👋 Hi, I'm Matru Prasad Panda
-
-### Full Stack Developer • Data Analyst • AI/ML • Business Intelligence
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Matru+Prasad+Panda;Full-Stack+Developer;Data+Analyst;AI%2FML+%26+Business+Intelligence;I+Build+Digital+Products+%26+Data+Solutions" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/matru-prasad-panda/">
