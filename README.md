@@ -7,7 +7,7 @@
 ### Full Stack Developer • Data Analyst • AI/ML • Business Intelligence
 
 <p>
-  <a href="www.linkedin.com/in/matru-prasad-panda">
+  <a href="https://www.linkedin.com/in/matru-prasad-panda/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="YOUR_PORTFOLIO_URL">
@@ -384,7 +384,7 @@ Currently focusing on:
 
 <div align="center">
 
-<a href="www.linkedin.com/in/matru-prasad-panda">
+<a href="https://www.linkedin.com/in/matru-prasad-panda/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
