@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/matru-prasad-panda/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://itsmatruprasadportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:itsmatruprasad@gmail.com>
@@ -388,7 +388,7 @@ Currently focusing on:
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://itsmatruprasadportfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
