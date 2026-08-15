@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:7b2ff7&height=220&section=header&text=MATru%20PRASAD%20PANDA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:7b2ff7&height=220&section=header&text=MATRU%20PRASAD%20PANDA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 # 👋 Hi, I'm Matru Prasad Panda
 
 ### Full Stack Developer • Data Analyst • AI/ML • Business Intelligence
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href=www.linkedin.com/in/matru-prasad-panda>
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:itsmatruprasad@gmail.com>
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -55,19 +55,16 @@ analytics platforms, dashboards, and intelligent applications.
 # 🛠️ Tech Arsenal
 
 ### 💻 Full Stack Development
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,django,tailwind&perline=10"/>
 </p>
 
 ### 🗄️ Databases & Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,firebase&perline=10"/>
 </p>
 
 ### 📊 Data Analytics & Business Intelligence
-
 <p>
 <img src="https://skillicons.dev/icons?i=python&perline=10"/>
 </p>
@@ -81,7 +78,6 @@ analytics platforms, dashboards, and intelligent applications.
 </p>
 
 ### 🤖 AI / Machine Learning
-
 <p>
 <img src="https://skillicons.dev/icons?i=python&perline=10"/>
 </p>
@@ -93,7 +89,6 @@ analytics platforms, dashboards, and intelligent applications.
 </p>
 
 ### 🔧 Tools & Platforms
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel&perline=10"/>
 </p>
@@ -107,7 +102,6 @@ analytics platforms, dashboards, and intelligent applications.
 ### 📊 Nex Analytics
 
 **Enterprise Business Intelligence Platform for FMCG Sales & Distribution**
-
 </div>
 
 Nex Analytics is an analytics platform designed to transform operational
@@ -134,13 +128,11 @@ performance.
 🔗 **Repository:** [Nex Analytics](https://github.com/matru-source/Nex_Analytics)
 
 ---
-
 <div align="center">
 
 ### 🌐 Wekeyar
 
 **Full Stack Web Application**
-
 </div>
 
 A modern full-stack web project focused on building a practical,
@@ -162,20 +154,17 @@ responsive and user-friendly digital experience.
 🔗 **Repository:** [Wekeyar](https://github.com/matru-source/wekeyar)
 
 ---
-
 <div align="center">
 
 ### 📦 Inventory Analytics
 
 **Data-driven Inventory & Business Analytics**
-
 </div>
 
 Analytics project focused on understanding inventory movement, stock levels,
 business performance and operational trends.
 
 **Tech**
-
 `Python` `SQL` `PostgreSQL` `Power BI` `Excel`
 
 🔗 **Repository:** [Inventory Analytics](https://github.com/matru-source/Inventory-Analytics)
@@ -185,9 +174,7 @@ business performance and operational trends.
 <div align="center">
 
 ### 🧑‍💻 Portfolio
-
 **Personal Developer Portfolio**
-
 </div>
 
 A personal portfolio showcasing projects, technical skills, experience and
@@ -206,7 +193,6 @@ development work.
 ### 🛡️ ARP Spoofing Detection
 
 **Cybersecurity / Network Security Project**
-
 </div>
 
 A Python-based project exploring ARP spoofing detection and network security
@@ -374,11 +360,11 @@ organizational responsibilities.
 
 ```text
 Full Stack Development     ████████████████████
-Data Analytics              ██████████████████
+Data Analytics             ██████████████████
 Business Intelligence      ████████████████
-AI / Machine Learning      █████████████
-Data Engineering           ███████████
-Cybersecurity              █████████
+AI / Machine Learning      ████████████████
+Data Engineering           ██████████████
+Cybersecurity              ████████████
 ```
 
 Currently focusing on:
@@ -398,7 +384,7 @@ Currently focusing on:
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/matru-prasad-panda">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -406,7 +392,7 @@ Currently focusing on:
 <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:itsmatruprasad@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
